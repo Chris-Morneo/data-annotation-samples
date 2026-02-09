@@ -1,1 +1,8 @@
-
+item_id,content_type,task_type,label,confidence,notes
+1,text,pairwise_evaluation,GOOD,0.95,Clear and accurate response
+2,text,pairwise_evaluation,ACCEPTABLE,0.75,Correct but slightly vague
+3,text,pairwise_evaluation,POOR,0.20,Incorrect definition
+4,image,object_tagging,GOOD,0.90,Primary object correctly identified
+5,image,object_tagging,GOOD,0.88,Consistent with labeling guidelines
+6,text,quality_check,ACCEPTABLE,0.70,Minor grammar issues
+7,text,quality_check,POOR,0.30,Off-topic response
